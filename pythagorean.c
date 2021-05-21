@@ -25,6 +25,6 @@ int main (void)
     if((c*c)==((a*a)+(b*b)))
       printf ("Yes");
     else
-      printf ("No");
+      printf ("No") ;
   }
 }
