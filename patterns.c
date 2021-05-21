@@ -31,5 +31,5 @@ int main (void)
      }
    }             
     else         
-    printf("Inavalid choice");
+    printf("Inavalid choice") ;
 }
